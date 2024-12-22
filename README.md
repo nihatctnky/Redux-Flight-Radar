@@ -8,5 +8,22 @@ Proje, temiz kodlama ve verimli geliştirme metodolojilerine dayalı olarak, kul
 
 # Kütüphaneler
 
+• Tepki-redux
+
+• @Reduxjs/araç takımı
+
+• @Splidejs/react-splide
+
+• Tepki-yönlendirici-dom
+
+• Tepki broşürü
+
+• Repki-sayfalama
+
+• Önyükleme
+
+# Ekran Gif
+
+
 
 
