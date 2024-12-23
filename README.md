@@ -24,6 +24,7 @@ Proje, temiz kodlama ve verimli geliştirme metodolojilerine dayalı olarak, kul
 
 # Ekran Gif
 
+![Video Screen1734976676342](https://github.com/user-attachments/assets/8882f4b9-b822-452a-9930-177c792303a8)
 
 
 
